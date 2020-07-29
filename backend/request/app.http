@@ -1,0 +1,6 @@
+POST https://shorten-tiny.herokuapp.com/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvok0v4RbxyrVp2cpWURXNw8MeWRFVBFuYBaPFjy_E-pQYI_BmBAq-3trs&s=10"
+}

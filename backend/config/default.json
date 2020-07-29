@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin:admin123@cluster0.vzlic.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "baseUrl": "https://shorten-tiny.herokuapp.com"
+}
